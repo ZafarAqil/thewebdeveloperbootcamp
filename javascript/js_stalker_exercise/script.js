@@ -4,4 +4,4 @@ var age = prompt("What's your Age?");
 
 console.log("Your Full Name is " + firstName + " " + lastName);
 console.log("Age" + " " +age);
-//a useless comment
+//a uselesscomment
